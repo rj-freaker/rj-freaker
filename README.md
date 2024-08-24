@@ -23,7 +23,7 @@ I'm a dedicated developer with a strong passion for technology and an eagerness 
 
 ## 📬 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/rupesh-kumar-802b11195/)
+- [LinkedIn](www.linkedin.com/in/rupesh-kumar-211b25324)
 - [GitHub](https://github.com/rj-freaker)
 - [LeetCode](https://leetcode.com/rupeshkumar/)
 - [Codeforces](https://codeforces.com/profile/rupeshkumar)
